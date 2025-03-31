@@ -1,0 +1,103 @@
+Description:
+Build a responsive and modern portfolio website using React (Next.js or Vite), Tailwind CSS, and Framer Motion for animations. The portfolio will showcase projects, skills, resume, contact details, and social links.
+
+Features to Include:
+✅ Home Page – Introduction, a catchy tagline, and a brief summary.
+✅ About Me – Your education, certifications, and interests.
+✅ Skills Section – Programming, technologies, and tools you are proficient in.
+✅ Projects Section – Showcasing your top projects (Phishing Detection, AI-Driven Surveillance, etc.).
+✅ Experience – Internships, hackathons, and research work.
+✅ Certifications & Achievements – AWS, Google, Data Science badges, etc.
+✅ Contact Section – Email, LinkedIn, GitHub, and a form to reach out.
+
+Tech Stack:
+🔹 Frontend: React (Vite/Next.js) with TypeScript
+🔹 Styling: Tailwind CSS
+🔹 Animations: Framer Motion
+🔹 Hosting: Replit / Vercel / Netlify
+
+Additional Features:
+⚡ Dark Mode Toggle
+⚡ Interactive Animations
+⚡ SEO Optimization
+⚡ Minimalist UI with smooth scrolling
+
+You can start this on Replit by creating a React + Vite project and adding Tailwind CSS. Let me know if you need a template or starter code! 🚀
+
+
+
+
+
+
+
+You said:
+give my personel info to fill there
+
+
+ChatGPT said:
+Here's how you can fill in your personal portfolio website with your details:
+
+Home Page (Introduction)
+👋 Hi, I'm Sumanth CH
+💡 B.Tech in Computer Science Engineering (AMC Engineering College, VTU)
+🚀 Aspiring Cloud & AI Engineer | Data Science | Web Developer
+
+About Me
+🎓 Education:
+
+Bachelor of Technology (B.Tech) in Computer Science Engineering
+AMC Engineering College, VTU (2021-2025) | CGPA: 8.5
+
+Senior Secondary (CBSE): 90% (2021)
+
+Secondary (CBSE): 90% (2019)
+
+🌟 Interests: Cloud Computing ☁️ | AI & Machine Learning 🤖 | Cybersecurity 🔐 | Web Development 🌐
+
+Skills
+💻 Programming: Python, JavaScript, Java
+🛠 Technologies: Django, SQL, Machine Learning, AWS, Flask, Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch
+📊 Tools: GitHub, Docker, Postman, Jupyter, Tableau, Power BI, Google Colab, VS Code
+
+Projects
+📌 Phishing Detection Website – Python, Django, MongoDB, AWS, HTML, JavaScript
+📌 AI-Driven Surveillance – ML, AWS, MTCNN, YOLO, OpenCV, PyAudio
+📌 House Price Prediction – ML model for real estate pricing
+📌 E-commerce Price Prediction – Data-driven pricing strategy
+
+Experience & Internships
+📌 AWS Cloud Internship – AWS Foundation & Architecture
+📌 Data Science Intern – ANDINTERN (Jan 2024 - Mar 2024, Remote)
+📌 Software Development Intern (Data Science) – Zidio Software Development (Aug 2024 - Nov 2024, Bangalore)
+
+Certifications
+🏆 Cloud & Data Science:
+
+AWS Academy Data Engineering Certification
+
+AWS Academy Cloud Architecting Certification
+
+Google Advanced Data Analytics
+
+Google IT Automation with Python
+
+Data Science Associate Certificate (DataCamp)
+
+NPTEL Cloud Computing (IIT Madras)
+
+🏆 Web & Programming:
+
+Complete Web Development Bootcamp (Udemy, Angela Yu)
+
+JavaScript Fundamentals
+
+🏆 Other Achievements:
+
+First place in paper presentation at Advaya (National-Level Symposium)
+
+Hackathon participant
+
+Contact Me
+📧 Email: sumanthch@example.com
+🔗 LinkedIn: linkedin.com/in/sumanthch
+💻 GitHub: github.com/sumanthch
